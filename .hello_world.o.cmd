@@ -927,6 +927,7 @@ deps_/home/hyn0216388/device_driver_test/hello_world.o := \
     $(wildcard include/config/HAVE_MOD_ARCH_SPECIFIC) \
     $(wildcard include/config/MODULES_USE_ELF_REL) \
     $(wildcard include/config/MODULES_USE_ELF_RELA) \
+  /usr/src/linux-headers-6.6.51+rpt-common-rpi/include/linux/cdev.h \
   /usr/src/linux-headers-6.6.51+rpt-common-rpi/include/linux/device.h \
     $(wildcard include/config/HAS_IOMEM) \
     $(wildcard include/config/GENERIC_MSI_IRQ) \
